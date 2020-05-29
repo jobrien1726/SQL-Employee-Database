@@ -8,6 +8,7 @@ In order to accompish this goal, the following steps were performed:
 - Data Modeling
 - Data Engineering
 - Data Analysis
+- Data Visualization
 
 ## Data
 
@@ -40,3 +41,7 @@ For example, here are the queries to answer the first four questions from above:
 ![Example Queries](Images/example_analysis_queries.png)
 
 The rest of the queries can be found [here](EmployeeSQL/analysis_queries.sql).
+
+## Data Visualization
+
+
