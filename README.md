@@ -56,3 +56,11 @@ Similarly, visualizing the average salary per job title demonstrates a much lowe
 
 It's possible that the data may be faulty, with duplicate rows of employees who earn $40,000.
 
+## Technologies Used
+
+- SQL
+- PostgresSQL
+- SQLAlchemy
+- Python
+- Pandas
+- Matplotlib
