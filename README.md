@@ -1,4 +1,4 @@
-# sql-challenge
+# SQL-Employee-Database
 
 ## Project Overview
 
