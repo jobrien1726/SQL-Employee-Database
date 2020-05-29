@@ -35,3 +35,7 @@ Once the CSV files are loaded into the tables in Postgres and the database is co
 6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+
+![Example Queries](Images/example_analysis_queries.png)
+
+The rest of the queries can be found [here](EmployeeSQL/analysis_queries.sql).
