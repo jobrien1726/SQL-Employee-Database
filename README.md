@@ -21,4 +21,6 @@ The first step is inspecting the files and sketching an ERD (Entity Relationship
 
 ## Data Engineering
 
+Using the ERD as a guide, table schema was created in Postgres, including data types, primary keys, foreign keys, as well as any other constraints. The table schema can be found [here](https://github.com/jobrien1726/sql-challenge/blob/master/EmployeeSQL/tables_schema.sql). 
+
 ## Data Analysis
