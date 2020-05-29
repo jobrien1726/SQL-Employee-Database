@@ -44,6 +44,15 @@ The rest of the queries can be found [here](EmployeeSQL/analysis_queries.sql).
 
 ## Data Visualization
 
-Using SQLAlchemy, the SQL database is then imported into Pandas by creating an engine and establishing a connection to the database in Postgres. If we take a look at the total number of employees that are earning each salary, we see that the plot is heavily skewed toward a salary of $40,000, meaning a large majority of the employees are earning $40,000.
+Using SQLAlchemy, the SQL database is then imported into Pandas by creating an engine and establishing a connection to the database in Postgres. Looking at the total number of employees that are earning each salary, the plot is heavily skewed toward a salary of $40,000, meaning a large majority of the employees are earning $40,000.
 
 ![](Images/salary_dist_plot.png)
+
+Similarly, visualizing the average salary per job title demonstrates a much lower average at every job title than one would anticipate. 
+
+![](Images/avg_salary_plot.png)
+
+## Conclusion
+
+It's possible that the data may be faulty, with duplicate rows of employees who earn $40,000.
+
