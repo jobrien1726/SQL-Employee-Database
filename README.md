@@ -52,6 +52,8 @@ Similarly, visualizing the average salary per job title demonstrates a much lowe
 
 ![](Images/avg_salary_plot.png)
 
+Data Analysis and Visualization code can be found [here](https://github.com/jobrien1726/sql-challenge/blob/master/EmployeeSQL/Bonus.ipynb).
+
 ## Conclusion
 
 It's possible that the data may be faulty, with duplicate rows of employees who earn $40,000.
