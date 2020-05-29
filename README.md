@@ -17,6 +17,8 @@ The original data is in the form of 6 CSV files that can be found in the [Data f
 
 The first step is inspecting the files and sketching an ERD (Entity Relationship Diagram) of the tables. The visual representation of the database relations ERD is created using a [free online source](http://www.quickdatabasediagrams.com).
 
+![](EmployeeSQL/ERD_QuickDBD.png)
+
 ## Data Engineering
 
 ## Data Analysis
