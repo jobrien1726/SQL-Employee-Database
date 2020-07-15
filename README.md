@@ -14,6 +14,15 @@ In order to accompish this goal, the following steps were performed:
 
 The original data is in the form of 6 CSV files that can be found in the [Data folder](https://github.com/jobrien1726/sql-challenge/tree/master/Data) above.
 
+## Technologies Used
+
+- SQL
+- PostgresSQL
+- SQLAlchemy
+- Python
+- Pandas
+- Matplotlib
+
 ## Data Modeling
 
 The first step is inspecting the files and sketching an ERD (Entity Relationship Diagram) of the tables. The visual representation of the database relations ERD is created using a [free online source](http://www.quickdatabasediagrams.com).
@@ -57,12 +66,3 @@ Data Analysis and Visualization code can be found [here](https://github.com/jobr
 ## Conclusion
 
 It's possible that the data may be faulty, with duplicate rows of employees who earn $40,000.
-
-## Technologies Used
-
-- SQL
-- PostgresSQL
-- SQLAlchemy
-- Python
-- Pandas
-- Matplotlib
